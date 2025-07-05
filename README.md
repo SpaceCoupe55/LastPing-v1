@@ -37,6 +37,25 @@ LastPing Factory is a decentralized application (dApp) built on the Internet Com
 - **Real-time Updates**: Dynamic status monitoring
 - **Error Handling**: Comprehensive error messages and loading states
 
+### Login
+<img width="476" alt="Screenshot 2025-07-05 at 7 26 13 AM" src="https://github.com/user-attachments/assets/e3ff1191-a36e-42fc-8be0-79c7e72bd225" />
+
+### Internet Identity Auth Page
+<img width="580" alt="Screenshot 2025-07-05 at 7 26 44 AM" src="https://github.com/user-attachments/assets/734dea4c-29ca-4c76-9f6b-0e86fa1c2cdc" />
+
+### Initialize Account Page
+<img width="939" alt="Screenshot 2025-07-05 at 7 27 08 AM" src="https://github.com/user-attachments/assets/fc15395d-9743-4974-8cc8-8a1d51161cb8" />
+
+### Account Created 
+<img width="909" alt="Screenshot 2025-07-05 at 7 27 23 AM" src="https://github.com/user-attachments/assets/2cc3853f-da68-421d-a270-025cdd605020" />
+
+### Settings and Transfer Tokens 
+ <img width="1075" alt="Screenshot 2025-07-05 at 7 27 32 AM" src="https://github.com/user-attachments/assets/68fb2392-aabf-4b4c-b5d9-0ea0254e4a73" />
+
+### Full Page Image
+![idksx-gqaaa-aaaad-aanua-cai icp1 io_](https://github.com/user-attachments/assets/7d45fc13-d073-490b-9b3e-7d50ca8e1ba3)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
